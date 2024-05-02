@@ -147,10 +147,40 @@ nav{
 
 
 .youtube-section{
+
     border: 2px solid blue;
     height: 350px;
     display: flex;
     justify-content: center;
     align-items: center;
     
+}
+
+.article-section{
+    border: 2px solid blue;
+}
+
+.section1{
+    border: 2px solid red;
+    height: 200px;
+}
+
+.section2{
+    border: 2px solid red;
+    height: 200px;
+}
+
+.section3{
+    display: flex;
+    height: 300px;
+}
+
+.section3-1{
+    width: 50%;
+    border: 2px solid red;
+}
+
+.section3-2{
+    width:50%;
+    border: 2px solid red;
 }
