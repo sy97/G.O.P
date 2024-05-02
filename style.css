@@ -50,7 +50,7 @@ nav{
 
 .nav-title{
     margin-top: 10px;
-    margin-left: 120px;
+    margin-left: 80px;
     color: #BCC0C6;
 }
 
@@ -119,6 +119,7 @@ nav{
     z-index : 1; /*다른 요소들보다 앞에 배치*/
     font-weight: 400;
     min-width : 200px;
+    background-color: white;
 }
 
 .dropdown-content a{
@@ -137,4 +138,19 @@ nav{
 
 .dropdown:hover .dropdown-content {
     display: block;
+}
+
+.menu-container{
+    margin-left:140px;
+
+}
+
+
+.youtube-section{
+    border: 2px solid blue;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
